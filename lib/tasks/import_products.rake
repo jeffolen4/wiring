@@ -4,7 +4,7 @@ task :import_products => :environment do
 
 
 
-  CSV.foreach("/Users/jeffolen/Library/Mobile Documents/com~apple~CloudDocs/rails apps/wiring_app/lib/tasks/wiring_export_1.csv") do |row|
+  CSV.foreach("./lib/tasks/wiring_export_1.csv") do |row|
 
     if row[0] != nil
 
