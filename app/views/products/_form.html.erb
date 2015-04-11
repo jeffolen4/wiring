@@ -1,0 +1,177 @@
+<%= form_for(@product, html: { class: "form-inline" } )  do |f| %>
+  <% if @product.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@product.errors.count, "error") %> prohibited this product from being saved:</h2>
+
+      <ul>
+      <% @product.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <table class="table table-bordered">
+    <tbody class="show-row">
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :product_code %>:
+          <%= f.number_field :product_code %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :upg_description %>:
+          <%= f.text_field :upg_description %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :compound %>:
+          <%= f.text_field :compound %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :nec_article %>:
+          <%= f.text_field :nec_article %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :shielded %>:
+          <%= f.check_box :shielded %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :application %>:
+          <%= f.text_field :application %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :strand_type %>:
+          <%= f.text_field :strand_type %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :pairs_count %>:
+          <%= f.number_field :pairs_count %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :awg %>:
+          <%= f.number_field :awg %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :stand_count %>:
+          <%= f.text_field :stand_count %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :stranded %>:
+          <%= f.check_box :stranded %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :solid %>:
+          <%= f.check_box :solid %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :putup %>:
+          <%= f.text_field :putup %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :length %>:
+          <%= f.number_field :length %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :unit_weight_lbs %>:
+          <%= f.number_field :unit_weight_lbs %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :unit_weight_kgs %>:
+          <%= f.number_field :unit_weight_kgs %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :nom_od %>:
+          <%= f.text_field :nom_od %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :unit_copper_weight %>:
+          <%= f.text_field :unit_copper_weight %>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="form-group field">
+          <%= f.label :carton_quantity %>:
+          <%= f.number_field :carton_quantity %>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+  <div class="actions btn btn-group">
+    <% if @product.persisted? %>
+      <%= f.submit "Update Product", :class => 'btn btn-primary' %>
+      <%= link_to "Show", product_path(@product), class: "btn btn-primary", type: "button" %>
+    <% end %>
+      <%= link_to "Back", products_path, class: "btn btn-primary", type: "button" %>
+  </div>
+<% end %>

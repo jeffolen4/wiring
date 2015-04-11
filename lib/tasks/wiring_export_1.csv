@@ -1,0 +1,761 @@
+77809,UZ1802-8B5,PVC,CM,NS,Audio,Zip,2,18,(7/26),STR,Gray,Box,500,,,0.090 x 0.190,5.3200,100
+77810,UZ1802-8B1,PVC,CM,NS,Audio,Zip,2,18,(7/26),STR,Gray,Box,1000,,,0.090 x 0.190,10.6400,60
+77001,UZ1802-9B5,PVC,CM,NS,Audio,Zip,2,18,(7/26),STR,White,Box,500,,,0.090 x 0.190,5.3200,100
+77161,UZ1802-9B1,PVC,CM,NS,Audio,Zip,2,18,(7/26),STR,White,Box,1000,,,0.090 x 0.190,10.6400,60
+77420,U1602F-4B5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(26/30),STR,Yellow,Box,500,,,0.1920,7.7330,60
+77499,U1602F-5B5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(26/30),STR,Green,Box,500,,,0.1920,7.7330,60
+77373,U1602F-6B5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(26/30),STR,Blue,Box,500,14.99,6.8,0.1920,7.7330,60
+77581,U1602F-6S1,PVC,CMR,NS,Audio,Multi-Cond,2,16,(26/30),STR,Blue,Spool,1000,,,0.1920,15.4600,60
+77485,U1602F-7B5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(26/30),STR,Purple,Box,500,,,0.1920,7.7330,60
+77811,U1602F-8B1,PVC,CMR,NS,Audio,Multi-Cond,2,16,(26/30),STR,Gray,Box,1000,,,0.1920,15.4600,
+77002,U1602F-9B5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(26/30),STR,White,Box,500,14.99,6.8,0.1920,7.7330,60
+77166,U1602F-9B1,PVC,CMR,NS,Audio,Multi-Cond,2,16,(26/30),STR,White,Box,1000,,,0.1920,15.4600,
+77663,U1602F-9C01,PVC,CMR,NS,Audio,Multi-Cond,2,16,(26/30),STR,White,Speed Bag,100,,,0.1920,1.5460,
+77664,U1602F-9C025,PVC,CMR,NS,Audio,Multi-Cond,2,16,(26/30),STR,White,Speed Bag,250,,,0.1920,3.8650,
+77375,U1604F-6B5,PVC,CMR,NS,Audio,Multi-Cond,4,16,(26/30),STR,Blue,Box,500,25.35,11.5,0.2240,15.4660,54
+77582,U1604F-6S1,PVC,CMR,NS,Audio,Multi-Cond,4,16,(26/30),STR,Blue,Spool,1000,,,0.2240,30.9320,
+77486,U1604F-7B5,PVC,CMR,NS,Audio,Multi-Cond,4,16,(26/30),STR,Purple,Box,500,,,0.2240,15.4660,54
+77577,U1604F-8B5,PVC,CMR,NS,Audio,Multi-Cond,4,16,(26/30),STR,Purple,Box,500,,,0.2240,15.4660,54
+77003,U1604F-9B5,PVC,CMR,NS,Audio,Multi-Cond,4,16,(26/30),STR,White,Box,500,25.35,11.5,0.2240,15.4660,54
+77167,U1604F-9S1,PVC,CMR,NS,Audio,Multi-Cond,4,16,(26/30),STR,White,Spool,1000,,,0.2240,30.9320,
+77665,U1604F-9C01,PVC,CMR,NS,Audio,Multi-Cond,4,16,(26/30),STR,White,Speed Bag,100,,,0.2240,3.9320,
+77666,U1604F-9C025,PVC,CMR,NS,Audio,Multi-Cond,4,16,(26/30),STR,White,Speed Bag,250,,,0.2240,9.8300,
+77691,U1602H-0B5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(65/34),STR,Black,Box,500,,,0.1920,7.9186,60
+77168,U1602H-0S5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(65/34),STR,Black,Spool,500,,,0.1920,7.9186,
+77006,U1602H-4B5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(65/34),STR,Yellow,Box,500,,,0.1920,7.9186,60
+77005,U1602H-6B5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(65/34),STR,Blue,Box,500,15.43,7,0.1920,7.9186,60
+77500,U1602H-7B5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(65/34),STR,Purple,Box,500,,,0.1920,7.9186,60
+77004,U1602H-9B5,PVC,CMR,NS,Audio,Multi-Cond,2,16,(65/34),STR,White,Box,500,15.43,7,0.1920,7.9186,60
+77667,U1602H-0C01,PVC,CMR,NS,Audio,Multi-Cond,2,16,(65/34),STR,Black,Speed Bag,100,,,0.1920,0.7919, 
+77668,U1602H-0C025,PVC,CMR,NS,Audio,Multi-Cond,2,16,(65/34),STR,Black,Speed Bag,250,,,0.1920,1.9800, 
+77669,U1602H-9C01,PVC,CMR,NS,Audio,Multi-Cond,2,16,(65/34),STR,White,Speed Bag,100,,,0.1920,0.7919, 
+77670,U1602H-9C025,PVC,CMR,NS,Audio,Multi-Cond,2,16,(65/34),STR,White,Speed Bag,250,,,0.1920,1.9800, 
+77692,U1604H-0B5,PVC,CMR,NS,Audio,Multi-Cond,4,16,(65/34),STR,Black,Box,500,,,0.2240,15.8372,54
+77009,U1604H-4B5,PVC,CMR,NS,Audio,Multi-Cond,4,16,(65/34),STR,Yellow,Box,500,,,0.2240,15.8372,54
+77008,U1604H-6B5,PVC,CMR,NS,Audio,Multi-Cond,4,16,(65/34),STR,Blue,Box,500,26.9,12.2,0.2240,15.8372,54
+77502,U1604H-7B5,PVC,CMR,NS,Audio,Multi-Cond,4,16,(65/34),STR,Purple,Box,500,,,0.2240,15.8372,54
+77007,U1604H-9B5,PVC,CMR,NS,Audio,Multi-Cond,4,16,(65/34),STR,White,Box,500,26.9,12.2,0.2240,15.8372,54
+77671,U1604H-0C01,PVC,CMR,NS,Audio,Multi-Cond,4,16,(65/34),STR,Black,Speed Bag,100,,,0.2240,3.1675, 
+77672,U1604H-0C025,PVC,CMR,NS,Audio,Multi-Cond,4,16,(65/34),STR,Black,Speed Bag,250,,,0.2240,7.9186, 
+77673,U1604H-9C01,PVC,CMR,NS,Audio,Multi-Cond,4,16,(65/34),STR,White,Speed Bag,100,,,0.2240,3.1675, 
+77674,U1604H-9C025,PVC,CMR,NS,Audio,Multi-Cond,4,16,(65/34),STR,White,Speed Bag,250,,,0.2240,7.9186, 
+77693,U1402H-0B5,PVC,CMR,NS,Audio,Multi-Cond,2,14,(41/30),STR,Black,Box,500,,,0.3060,12.1944,60
+77011,U1402H-4B5,PVC,CMR,NS,Audio,Multi-Cond,2,14,(41/30),STR,Yellow,Box,500,,,0.3060,12.1944,60
+77010,U1402H-9B5,PVC,CMR,NS,Audio,Multi-Cond,2,14,(41/30),STR,White,Box,500,20.94,9.5,0.3060,12.1944,60
+77169,U1402H-9S1,PVC,CMR,NS,Audio,Multi-Cond,2,14,(41/30),STR,White,Spool,1000,,,0.3060,25.8880,60
+77675,U1402H-9C01,PVC,CMR,NS,Audio,Multi-Cond,2,14,(41/30),STR,White,Speed Bag,100,,,0.3060,2.5889,60
+77694,U1404H-0B5,PVC,CMR,NS,Audio,Multi-Cond,4,14,(41/30),STR,Black,Box,500,,,0.3470,24.3888,36
+77013,U1404H-4B5,PVC,CMR,NS,Audio,Multi-Cond,4,14,(41/30),STR,Yellow,Box,500,,,0.3470,24.3888,36
+77012,U1404H-9B5,PVC,CMR,NS,Audio,Multi-Cond,4,14,(41/30),STR,White,Box,500,37.92,17.2,0.3470,24.3888,36
+77171,U1404H-9S1,PVC,CMR,NS,Audio,Multi-Cond,4,14,(41/30),STR,White,Spool,1000,,,0.3470,48.7780,
+77676,U1404H-9C01,PVC,CMR,NS,Audio,Multi-Cond,4,14,(41/30),STR,White,Speed Bag,100,,,0.3470,4.8780,
+77014,U1202H-7B5,PVC,CMR,NS,Audio,Multi-Cond,2,12,(65/34),STR,Purple,Box,500,,,0.3200,19.9550,60
+77173,U1202H-0S1,PVC,CMR,NS,Audio,Multi-Cond,2,12,(65/34),STR,Black,Spool,1000,,,0.3200,39.9910,
+77174,U1204H-7S5,PVC,CMR,NS,Audio,Multi-Cond,4,12,(65/34),STR,Purple,Spool,500,,,0.3400,39.2840,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77170,U1402SH-9B5,PVC,CMR,NS,Audio,Multi-Cond,2,14,(105/34),STR,White,Box,500,22.05,10,0.3060,12.1944,60
+77172,U1404SH-9B5,PVC,CMR,NS,Audio,Multi-Cond,4,14,(105/34),STR,White,Box,500,39.24,17.8,0.3470,24.3888,36
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77015,C164244-0B5,PVC,CMR,NS,Audio/Data,Combo,12,16 & 24,(26/30),STR & SOL,Black ,Box,500,,,0.3900,15.4660,36
+77175,C164244-0S1,PVC,CMR,NS,Audio/Data,Combo,12,16 & 24,(26/30),STR & SOL,Black ,Spool,1000,,,0.3900,30.9200,
+77016,C164244-7B5,PVC,CMR,NS,Audio/Data,Combo,12,16 & 24,(26/30),STR & SOL,Purple,Box,500,40.34,18.3,0.3900,15.4660,36
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77176,C6Q1-241-9S1,PVC,CM,NS,CATV/Data,Combo,9,18 & 24,1 (1.024mm) & 1 (0.511mm),SOL CCS & BC,White,Spool,1000,,,0.4890,14.8500,12
+77017,C6Q2242-5S5,PVC,CM,NS,CATV/Data,Combo,18,18 & 24,1 (1.024mm) & 1 (0.511mm),SOL CCS & BC,Green,Spool,500,,,0.6700,9.9410,12
+77410,C6Q2242-6S5,PVC,CM,NS,CATV/Data,Combo,18,18 & 24,1 (1.024mm) & 1 (0.511mm),SOL CCS & BC,Blue,Spool,500,,,0.6700,9.9410,12
+77177,C6Q2242-9S5,PVC,CM,NS,CATV/Data,Combo,18,18 & 24,1 (1.024mm) & 1 (0.511mm),SOL CCS & BC,White,Spool,500,,,0.6700,9.9410,12
+77332,C6Q2242BC-9S5,PVC,CM,NS,CATV/Data,Combo,18,18 & 24,1 (1.024mm) & 1 (0.511mm),SOL BC & BC,White,Spool,500,,,0.6700,14.8600,12
+,,,,,,,,,,,,,,,,,,
+77018,C6Q2232-6S5,PVC,CM,NS,CATV/Data,Combo,18,18 & 23,,SOL CCS & BC,Blue ,Spool,500,,,0.6950,24.7800,12
+77338,C6Q2232BC-6S5,PVC,CM,NS,CATV/Data,Combo,18,18 & 23,,SOL BC & BC,Blue ,Spool,500,,,0.6950,29.7800,12
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77019,G1401-5B5,PVC,CM,NS,CATV/Data,Combo,1,14,1 (1.630mm),SOL,Green,Box,500,,,0.1010,3.1330,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77512,U2404S-9C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,24,1 (0.511mm),SOL,White,Speed Bag,500,,,0.1000,2.4866,
+77386,U2404S-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,24,1 (0.511mm),SOL,White,Box,1000,,,0.1000,4.9731,
+77512,U2404-9C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,24,(7/32),STR  ,White,Speed Bag,500,,,0.1000,2.6900,
+77386,U2404-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,24,(7/32),STR  ,White,Box,1000,,,0.1000,5.3829,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77023,U2202S-BC5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,Beige,Speed Bag,500,,,0.1060,1.9300,280/14
+77549,U2202S-1C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,Brown,Speed Bag,500,,,0.1060,1.9300,280/14
+77812,U2202S-3C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,Orange,Speed Bag,500,,,0.1060,1.9300,280/14
+77545,U2202S-4C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,Yellow,Speed Bag,500,,,0.1060,1.9300,280/14
+77813,U2202S-5C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,Green,Speed Bag,500,,,0.1060,1.9300,280/14
+77594,U2202S-6B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,Blue,Box,1000,,,0.1060,3.8600,80
+77544,U2202S-6C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,Blue,Speed Bag,500,,,0.1060,1.9300,280/14
+77022,U2202S-8C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,Gray,Speed Bag,500,,,0.1060,1.9300,280/14
+77020,U2202S-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,White,Box,1000,7.8,3.54,0.1060,3.8600,80
+77567,U2202S-9B15,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,White,Box,1500,,,0.1060,5.7900,
+77021,U2202S-9C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,1 (0.643mm),SOL ,White,Speed Bag,500,3.53,1.6,0.1060,1.9300,280/14
+77027,U2204S-BC5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Beige,Speed Bag,500,7,,0.1200,3.8600,300/10
+77546,U2204S-0B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Black,Box,1000,13,,0.1200,7.7200,60
+77474,U2204S-0C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Black,Speed Bag,500,7,,0.1200,3.8600,300/10
+77547,U2204S-1B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Brown,Box,1000,13,,0.1200,7.7200,60
+77179,U2204S-1C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Brown,Speed Bag,500,7,,0.1200,3.8600,300/10
+77379,U2204S-3C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Orange,Speed Bag,500,7,,0.1200,3.8600,300/10
+77029,U2204S-4C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Yellow,Speed Bag,500,7,,0.1200,3.8600,300/10
+77391,U2204S-5C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Green,Speed Bag,500,7,,0.1200,3.8600,300/10
+77475,U2204S-6B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Blue,Box,1000,13,,0.1200,7.7200,60
+77028,U2204S-6C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Blue,Speed Bag,500,7,,0.1200,3.8600,300/10
+77026,U2204S-8C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,Gray,Speed Bag,500,7,,0.1200,3.8600,300/10
+77025,U2204S-9C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,White,Speed Bag,500,6.17,2.8,0.1200,3.8600,300/10
+77180,U2204S-9B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,White,Box,500,6.97,3.16,0.1200,3.8600,100
+77024,U2204S-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,White,Box,1000,13.45,6.1,0.1200,7.7200,60
+77568,U2204S-9B15,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,White,Box,1500,20,,0.1200,11.5800,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77181,U2206S-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,6,22,1 (0.643mm),SOL ,White,Box,1000,,,0.1560,11.5800,
+77182,U2208S-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,8,22,1 (0.643mm),SOL ,White,Box,1000,,,0.1720,15.8950,
+77183,U2210S-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,10,22,1 (0.643mm),SOL ,White,Box,1000,,,0.2000,19.2999,
+77185,U2212S-9B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,12,22,1 (0.643mm),SOL ,White,Box,500,,,0.2050,11.5800,
+77184,U2212S-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,12,22,1 (0.643mm),SOL ,White,Box,1000,,,0.2050,23.1599,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77480,U2202-0C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Black,Speed Bag,500,3.97,1.8,0.1160,2.0820,280/14
+77476,U2202-1C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Brown,Speed Bag,500,3.97,1.8,0.1160,2.0820,280/14
+77422,U2202-3C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Orange,Speed Bag,500,3.97,1.8,0.1160,2.0820,280/14
+77389,U2202-4C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Yellow,Speed Bag,500,3.97,1.8,0.1160,2.0820,280/14
+77421,U2202-5C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Green,Speed Bag,500,3.97,1.8,0.1160,2.0820,280/14
+77388,U2202-6C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Blue,Speed Bag,500,3.97,1.8,0.1160,2.0820,280/14
+77032,U2202-8C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Gray,Speed Bag,500,3.97,1.8,0.1160,2.0820,280/14
+77814,U2202-8B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Gray,Box,1000,9.48,4.3,0.1160,4.1639,100
+77030,U2202-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,White,Box,1000,9.48,4.3,0.1160,4.1639,100
+77569,U2202-9B15,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,White,Box,1500,,,0.1160,6.2460,
+77031,U2202-9C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,White,Speed Bag,500,3.97,1.8,0.1160,2.0820,280/14
+77038,U2204-BC5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Beige,Speed Bag,500,6.61,3,0.1350,4.1639,300/10
+77526,U2204-0C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Black,Speed Bag,500,6.61,3,0.1350,4.1639,300/10
+77525,U2204-0B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Black,Box,500,7.94,3.6,0.1350,4.1639,100
+77524,U2204-0B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Black,Box,1000,15.87,7.2,0.1350,8.3279,60
+77186,U2204-1C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Brown,Speed Bag,500,6.61,3,0.1350,4.1639,300/10
+77477,U2204-3C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Orange,Speed Bag,500,6.61,3,0.1350,4.1639,300/10
+77037,U2204-4C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Yellow,Speed Bag,500,6.61,3,0.1350,4.1639,300/10
+77478,U2204-5C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Green,Speed Bag,500,6.61,3,0.1350,4.1639,300/10
+77036,U2204-6C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Blue,Speed Bag,500,6.61,3,0.1350,4.1639,300/10
+77411,U2204-8B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Gray,Box,1000,15.87,7.2,0.1350,8.3279,60
+77035,U2204-8C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Gray,Speed Bag,500,6.61,3,0.1350,4.1639,300/10
+77033,U2204-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,White,Box,1000,15.87,7.2,0.1350,8.3279,60
+77570,U2204-9B15,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,White,Box,1500,17.81,10.8,0.1350,12.4920,
+77380,U2204-9B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,White,Speed Bag,500,7.94,3.6,0.1350,4.1639,100
+77034,U2204-9C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,White,Speed Bag,500,6.61,3,0.1350,4.1639,300/10
+77815,U2206-8B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,Gray,Box,1000,23.8,10.8,0.1580,12.4918,60
+77382,U2206-8B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,Gray,Box,500,11.9,5.4,0.1580,6.2459,60
+77039,U2206-9B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,White,Box,500,11.9,5.4,0.1580,6.2459,60
+77586,U2206-9S5,PVC,CMR,NS,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,White,Spool,500,,,0.1580,6.2459,60
+77040,U2206-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,White,Box,1000,,,0.1580,12.4918,
+77187,U2208-9B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,8,22,(7/30),STR ,White,Box,500,,,0.1720,7.9480,
+77587,U2208-9S5,PVC,CMR,NS,Alarm/Control,Multi-Cond,8,22,(7/30),STR ,White,Spool,500,,,0.1720,7.9480,
+77188,U2208-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,8,22,(7/30),STR ,White,Box,1000,,,0.1720,15.8960,
+77041,U2210-9B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,10,22,(7/30),STR ,White,Box,500,,,0.2010,10.4098,
+77042,U2210-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,10,22,(7/30),STR ,White,Box,1000,,,0.2010,20.8197,
+77377,U2212-8B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,12,22,(7/30),STR ,Gray,Box,500,,,0.2060,12.4918,54
+77189,U2212-8B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,12,22,(7/30),STR ,Gray,Box,1000,,,0.2060,24.9840,
+77043,U2212-9B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,12,22,(7/30),STR ,White,Box,500,,,0.2060,12.4918,54
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77162,U1802-8B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,Gray,Box,1000,18.74,8.5,0.1480,10.6597,60
+77376,U1802-8B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,Gray,Box,500,,,0.1480,5.3300,100
+77543,U1802-8C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,Gray,Coil,500,,,0.1480,5.3300,
+77044,U1802-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,White,Box,1000,18.74,8.5,0.1480,10.6597,60
+77190,U1802-9B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,White,Box,500,,,0.1480,5.3300,100
+77519,U1802-9C5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,White,Coil,500,9.26,4.2,0.1480,5.3300,
+77163,U1804-8B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,Gray,Box,1000,33.07,15,0.1720,21.3193,36
+77191,U1804-8B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,Gray,Box,500,,,0.1720,10.6600,60
+77045,U1804-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,White,Box,1000,33.07,15,0.1720,21.3193,36
+77192,U1804-9B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,White,Box,500,,,0.1720,10.6600,60
+77193,U1806-8B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,Gray,Box,500,,,0.2040,15.9900,36
+77046,U1806-9B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,White,Box,1000,50.71,23,0.2040,31.9790,36
+77047,U1808-9S1,PVC,CMR,NS,Alarm/Control,Multi-Cond,8,18,(7/26),STR ,White,Spool,1000,,,0.2250,42.6387,
+77194,U1602-8B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,16,(19/29),STR ,Gray,Box,500,,,0.1720,8.1380,60
+77195,U1402-8B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,14,(19/27),STR ,Gray,Box,1000,,,0.2100,23.4360,
+,,,,,,,,,,,,,,,,,,
+77048,U1602-0B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,16,(19/29),STR ,Black    ,Box,1000,,,0.1720,16.2750,39
+77049,U1604-0B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,16,(19/29),STR ,Black    ,Box,1000,,,0.2010,32.5501,
+77050,U1402-0B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,14,(19/27),STR ,Black    ,Box,1000,,,0.2100,23.4360,
+77196,U1404-0S1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,14,(19/27),STR ,Black    ,Spool,1000,,,0.2460,46.8721,
+77051,U1202-0B5,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,12,(19/25),STR ,Black    ,Box,500,,,0.2640,19.3326,36
+77197,U1202-0B1,PVC,CMR,NS,Alarm/Control,Multi-Cond,2,12,(19/25),STR ,Black    ,Box,1000,,,0.2640,38.6651,
+77198,U1204-0S1,PVC,CMR,NS,Alarm/Control,Multi-Cond,4,12,(19/25),STR ,Black    ,Spool,1000,,,0.3457,77.3302,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77199,S2202-8S1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Gray,Spool,1000,,,0.1200,6.2459,
+77200,S2202-8B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Gray,Box,1000,13.23,6,0.1200,6.2459,60
+77052,S2202-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,White,Box,1000,13.23,6,0.1200,6.2459,60
+77479,S2204-8B5,PVC,CMR,S ,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Gray,Box,500,,,0.1380,5.2050,100
+77201,S2204-8B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Gray,Box,1000,20.06,9.1,0.1380,10.4098,54
+77053,S2204-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,White,Box,1000,20.06,9.1,0.1380,10.4098,54
+77202,S2206-8B5,PVC,CMR,S ,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,Gray,Box,500,,,0.1660,7.2870,60
+77203,S2206-8B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,Gray,Box,1000,27.56,12.5,0.1660,14.5738,36
+77604,S2206-8S1,PVC,CMR,S ,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,Gray,Spool,1000,,,0.1660,14.5738,36
+77054,S2206-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,White,Box,1000,27.56,12.5,0.1660,14.5738,36
+77204,S2208-8B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,8,22,(7/30),STR ,Gray,Box,1000,,,0.1730,18.7377,
+77055,S2208-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,8,22,(7/30),STR ,White,Box,1000,,,0.1730,18.7377,
+77205,S2210-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,10,22,(7/30),STR ,White,Box,1000,,,0.2080,22.9016,
+77056,S2212-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,12,22,(7/30),STR ,White,Box,1000,,,0.2120,27.0656,
+77603,S2002-8S1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,20,(7/28),STR ,Gray,Spool,1000,,,,8.2740,
+77610,S2002-9S1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,20,(7/28),STR ,White,Spool,1000,,,,8.2740,
+77611,S2006-8S1,PVC,CMR,S ,Alarm/Control,Multi-Cond,4,20,(7/28),STR ,White,Spool,1000,,,,22.1570,
+77206,S1802-8B5,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,Gray,Box,500,,,0.1560,6.3650,60
+77207,S1802-8B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,Gray,Box,1000,25.79,11.7,0.1560,12.7300,39
+77057,S1802-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,White,Box,1000,25.79,11.7,0.1560,12.7300,39
+77208,S1804-8B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,Gray,Box,1000,38.58,17.5,0.1790,23.3890,36
+77058,S1804-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,White,Box,1000,38.58,17.5,0.1790,23.3890,36
+77687,S1804-9B5,PVC,CMR,S ,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,White,Box,500,,,0.1790,11.6945, 
+77209,S1806-8B5,PVC,CMR,S ,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,Gray,Box,500,,,0.2100,17.0240,54
+77578,S1806-8B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,Gray,Box,1000,53.57,24.3,0.2100,34.0480,36
+77816,S1806-8S1,PVC,CMR,S ,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,Gray,Spool,1000,,,0.2100,34.0480,36
+77059,S1806-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,White,Box,1000,53.57,24.3,0.2100,34.0480,36
+77686,S1602-9B5,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,16,(19/29),STR ,White,Box,500,,,0.1800,9.1720,
+77060,S1602-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,16,(19/29),STR ,White,Box,1000,,,0.1800,18.3440,36
+77210,S1604-9S1,PVC,CMR,S ,Alarm/Control,Multi-Cond,4,16,(19/29),STR ,White,Spool,1000,,,0.2040,34.2040,45
+77061,S1402-9B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,14,(19/27),STR ,White,Box,1000,,,0.2160,25.5040,20
+77566,S1402-0B1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,14,(19/27),STR ,Black,Box,1000,,,0.2160,25.5040,
+77211,S1404-0S1,PVC,CMR,S ,Alarm/Control,Multi-Cond,4,14,(19/27),STR ,Black,Spool,1000,,,0.2580,50.1110,
+77212,S1202-0S1,PVC,CMR,S ,Alarm/Control,Multi-Cond,2,12,(19/25),STR ,Black,Spool,1000,,,0.2620,40.4750,
+77824,S1204-0S1,PVC,CMR,S ,Alarm/Control,Multi-Cond,4,12,(19/25),STR ,Black,Spool,1000,,, ,76.5726,
+, ,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77412,SEP2202S-8B1,PVC,CMR,S  Each PR.,Alarm/Control,Multi-Pair,2,22,(7/30),STR ,Gray,Box,1000,,,0.1820,10.3981,
+77062,SEP2202-0B1,PVC,CMR,S  Each PR.,Alarm/Control,Multi-Pair,2,22,(7/30),STR ,Black   ,Box,1000,,,0.1820,10.3981,
+77063,SEP1802-0B1,PVC,CMR,S  Each PR.,Alarm/Control,Multi-Pair,2,18,(7/28),STR ,Black   ,Box,1000,,,0.2540,25.4590,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77215,CS16C96J-4S5,PVC,CMP,NS & S,Access/Control,Multi-Pair,16,22 & 18,22awg (7/30) 18awg (7/26),STR,White,Spool,500,59.81,27.13,,23.1680,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77214,CS16C98W-XS5,PVC,CMR,NS & S,Access Control,Combo,16,22 & 18,(7/30)-(7/28),STR ,Wrap,Spool,500,,,,24.3000,
+77215,CS16C98J-4S5,PVC,CMR,NS & S,Access Control,Combo,16,22 & 18,(7/30)-(7/28),STR ,Yellow,Spool,500,,,,24.3000,
+77216,CS16C98J-4S1,PVC,CMR,NS & S,Access Control,Combo,16,22 & 18,(7/30)-(7/28),STR ,Yellow,Spool,1000,,,,48.6000,
+,,,,,,,,,,,,,,,,,,
+77213,CS16C99W-XS5,PVC,CMR,S ,Access Control,Combo,16,22 & 18,(7/30)-(7/28),STR ,Wrap,Spool,500,,,,27.1770,
+77064,CS16C99J-9S5,PVC,CMR,S ,Access Control,Combo,16,22 & 18,(7/30)-(7/28),STR ,White,Spool,500,,,,27.1770,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77065,C182242-0B1,PVC,CMR,NS,Video/Data Combo,Multi-Pair,6,18 & 24,(7/26) & 1 (0.511mm),STR & SOL,Black  ,Box,1000,26.08,11.83,0.170 x .345,15.6330,
+77593,C182244-0B1,PVC,CMR,NS,Video/Data Combo,Multi-Pair,10,18 & 24,(7/26) & 1 (0.511mm),STR & SOL,Black  ,Box,1000,,,0.170 x .345,20.4997,
+77066,C162242-0B1,PVC,CMR,NS,Video/Data Combo,Multi-Pair,6,16 & 24,(19/29) & 1 (0.511mm),STR & SOL,Black  ,Box,1000,33.51,15.2,0.170 x 0.360,21.2476,
+77217,C162242-9B5,PVC,CMR,NS,Video/Data Combo,Multi-Pair,6,16 & 24,(19/29) & 1 (0.511mm),STR & SOL,White,Box,500,,,0.170 x 0.360,10.6240,
+77218,C162242-9B1,PVC,CMR,NS,Video/Data Combo,Multi-Pair,6,16 & 24,(19/29) & 1 (0.511mm),STR & SOL,White,Box,1000,,,0.170 x 0.360,21.2476,
+77583,C162244-0S1,PVC,CMR,NS,Video/Data Combo,Multi-Pair,10,16 & 24,(19/29) & 1 (0.511mm),STR & SOL,Black,Spool,1000,,, ,26.1200,
+,,,,,,,,,,,,,,,,,,
+77331,CDB182242-0S1,Direct Burial,,NS,Video + PWR,Multi-Pair,6,18 & 24,(7/26) & 1 (0.511mm),STR & SOL,Black,Spool,1000,,,0.170 x .345,15.6330,
+77340,CDB162242-0S1,Direct Burial,,NS,Video + PWR,Multi-Pair,6,16 & 24,(19/29) & 1 (0.511mm),STR & SOL,Black,Spool,1000,,,0.170 x 0.360,21.2476,45
+77510,CDB162244-0S1,Direct Burial,,NS,Video + PWR,Multi-Pair,10,16 & 24,(19/29) & 1 (0.511mm),STR & SOL,Black,Spool,1000,,, ,26.1200,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77091,UF1802Z-2B5,PVC,FPLR,NS,Fire Alarm,Zip,2,18,1 (1.024mm),SOL ,Red,Box,500,10.25,4.65,.105 x .218,4.9023,100
+77246,UF1802Z-9B5,PVC,FPLR,NS,Fire Alarm,Zip,2,18,1 (1.024mm),SOL ,White,Box,500,10.25,4.65,.105 x .218,4.9023,100
+77092,UF1802Z-2B1,PVC,FPLR,NS,Fire Alarm,Zip,2,18,1 (1.024mm),SOL ,Red,Box,1000,22.05,10,.105 x .218,9.8045,60
+77247,UF1602Z-2B1,PVC,FPLR,NS,Fire Alarm,Zip,2,16,1 (1.290mm),SOL ,Red,Box,1000,,,.108 x 220,15.4399,
+77248,UF1402Z-2S1,PVC,FPLR,NS,Fire Alarm,Zip,2,14,1 (1.630mm),SOL ,Red,Spool,1000,,,.130 x .275,25.0381,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77249,UF2204S-2C5,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,22,1 (0.643mm),SOL ,Red,Speed Bag,500,6.5,2.95,0.1240,3.8600,300/10
+77250,UF2204S-9C5,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,22,1 (0.643mm),SOL ,White,Speed Bag,500,,,0.1240,3.8600,300/10
+77093,UF2204S-2B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,22,1 (0.643mm),SOL ,Red,Box,1000,13.67,6.2,0.1240,7.7200,60
+77094,UF1802S-2B5,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Red,Box,500,,,0.1360,4.9023,100
+77095,UF1802S-2B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Red,Box,1000,16.87,7.65,0.1360,9.8045,60
+77553,UF1802S-2S1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Red,Spool,1000,,,0.1360,9.8045,
+77096,UF1802S-9B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,White,Box,1000,16.87,7.65,0.1360,9.8045,60
+77531,UF1802S-9C5,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,White,Coil,500,7.61,3.45,0.1360,4.9023,
+77097,UF1804S-2B5,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Red,Box,500,15.98,7.25,0.1720,9.8045,60
+77098,UF1804S-2B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Red,Box,1000,30.86,14,0.1720,19.6090,39
+77417,UF1804S-2S1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Red,Box,1000,,,0.1720,19.6090,
+77099,UF1804S-9B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,White,Box,1000,,,0.1720,19.6090,39
+77533,UF1804S-9B5,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,White,Box,500,,,0.1720,9.8045,60
+77100,UF1806S-2B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,6,18,1 (1.024mm),SOL ,Red,Box,1000,,,0.1920,29.4135,
+77251,UF1602S-2B5,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Red,Box,500,,,0.1560,7.7200,100
+77101,UF1602S-2B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Red,Box,1000,24.69,11.2,0.1560,15.4399,54
+77418,UF1602S-2S1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Red ,Spool,1000,,,0.1560,15.4399,
+77423,UF1602S-3B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Orange,Box,1000,,,0.1560,15.4399,54
+77424,UF1602S-4B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Yellow,Box,1000,,,0.1560,15.4399,54
+77425,UF1602S-5B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Green,Box,1000,,,0.1560,15.4399,54
+77426,UF1602S-6B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Blue,Box,1000,,,0.1560,15.4399,54
+77427,UF1602S-9B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,White,Box,1000,24.69,11.2,0.1560,15.4399,54
+77253,UF1604S-2S1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,16,1 (1.290mm),SOL ,Red,Spool,1000,,,0.1820,30.8799,45
+77374,UF1604S-2B5,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,16,1 (1.290mm),SOL ,Red,Box,500,22.05,10,0.1820,15.4400,60
+,UF1606S-2S1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,6,16,1 (1.290mm),SOL ,Red,Spool,1000,,,0.2150,46.6773, 
+77372,UF1402S-2B5,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Red,Box,500,,,0.1820,12.5200,60
+77102,UF1402S-2B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Red,Box,1000,35.87,16.27,0.1820,25.0381,36
+77419,UF1402S-2S1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Red,Spool,1000,,,0.1820,25.0381,45
+77428,UF1402S-3B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Orange,Box,1000,,,0.1820,25.0381,36
+77429,UF1402S-4B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Yellow,Box,1000,,,0.1820,25.0381,36
+77430,UF1402S-6B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Blue,Box,1000,,,0.1820,25.0381,36
+77392,UF1402S-9B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,White,Box,1000,35.87,16.27,0.1820,25.0381,36
+77254,UF1404S-2S1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,4,14,1 (1.630mm),SOL ,Red,Spool,1000,,,0.2160,50.0762,36
+,UF1406S-2S1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,6,14,1 (1.630mm),SOL ,Red,Spool,1000,,,0.2450,75.5765,36
+77103,UF1202S-2S1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,12,1 (2.050mm),SOL ,Red,Spool,1000,,,0.2160,39.6035,45
+77255,UF1202S-2B1,PVC,FPLR,NS,Fire Alarm,Multi-Cond,2,12,1 (2.050mm),SOL ,Red,Box,1000,,,0.2160,39.6035,36
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77256,UF1802-0B1,PVC,FPLR/CMR,NS,Fire Alarm,Multi-Cond,2,18,(7/26),STR ,Black,Box,1000,,,,10.6060,60
+77257,UF1804-0B1,PVC,FPLR/CMR,NS,Fire Alarm,Multi-Cond,4,18,(7/26),STR ,Black,Box,1000,,,,21.2120,39
+77258,UF1806-0S5,PVC,FPLR/CMR,NS,Fire Alarm,Multi-Cond,6,18,(7/26),STR ,Black,Spool,500,,,,31.8180,45
+77259,UF1602-0S1,PVC,FPLR/CMR,NS,Fire Alarm,Multi-Cond,2,16,(19/29),STR ,Black,Spool,1000,,,0.1600,16.4100,45
+77260,UF1604-0S1,PVC,FPLR/CMR,NS,Fire Alarm,Multi-Cond,4,16,(19/29),STR ,Black,Spool,1000,,,0.1930,32.8200,45
+77261,UF1402-0S1,PVC,FPLR/CMR,NS,Fire Alarm,Multi-Cond,2,14,(19/27),STR ,Black,Spool,1000,,,,23.3180,
+77262,UF1404-0S1,PVC,FPLR/CMR,NS,Fire Alarm,Multi-Cond,4,14,(19/27),STR ,Black,Spool,1000,,,,46.6360,
+77341,UF1202-0S1,PVC,FPLR/CMR,NS,Fire Alarm,Multi-Cond,2,12,(19/25),STR ,Black,Spool,1000,,,0.2620,40.4750,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77263,SF1802S-2B5,PVC,FPLR,S,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Red,Box,500,,,0.1400,5.8670,60
+77104,SF1802S-2B1,PVC,FPLR,S,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Red,Box,1000,21.61,9.8,0.1400,11.7345,54
+77431,SF1802S-4B1,PVC,FPLR,S,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Yellow,Box,1000,,,0.1400,11.7345,54
+77432,SF1802S-4S1,PVC,FPLR,S,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Yellow,Spool,1000,,,0.1400,11.7345,45
+77264,SF1804S-2B5,PVC,FPLR,S,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Red,Box,500,,,0.1620,10.7700,54
+77105,SF1804S-2B1,PVC,FPLR,S,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Red,Box,1000,34.17,15.5,0.1620,21.5390,36
+77106,SF1806S-2B1,PVC,FPLR,S,Fire Alarm,Multi-Cond,6,18,1 (1.024mm),SOL ,Red,Box,1000,,,0.1980,29.4140,
+77107,SF1602S-2B1,PVC,FPLR,S,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Red,Box,1000,29.1,13.2,0.1600,17.3699,39
+77265,SF1604S-2S1,PVC,FPLR,S,Fire Alarm,Multi-Cond,4,16,1 (1.290mm),SOL ,Red,Spool,1000,,,0.1880,32.8099,
+77108,SF1402S-2B1,PVC,FPLR,S,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Red,Box,1000,44.09,20,0.1880,26.9681,
+77579,SF1402S-2S1,PVC,FPLR,S,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Red,Spool,1000,,,0.1880,26.9681,
+77266,SF1404S-2S1,PVC,FPLR,S,Fire Alarm,Multi-Cond,4,14,1 (1.630mm),SOL ,Red,Spool,1000,,,0.2200,52.0062,
+77109,SF1202S-2S1,PVC,FPLR,S,Fire Alarm,Multi-Cond,2,12,1 (2.050mm),SOL ,Red,Spool,1000,,,0.2200,41.5335,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77219,UP2204S-9B5,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,White,Box,500,,,0.1160,3.7995,100
+77067,UP2204S-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL ,White,Box,1000,14.33,6.5,0.1160,7.5990,60
+77068,UP2202 -9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,White,Box,1000,9.92,4.5,0.1140,3.9988,100
+77817,UP2202 -9B5,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,White,Box,500,,,0.1140,1.9994,100
+77818,UP2203 -9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,3,22,(7/30),STR ,White,Box,1000,,,0.1220,5.9982,100
+77494,UP2204-4B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Yellow,Box,1000,,,0.1330,7.9976,60
+77069,UP2204-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,White,Box,1000,17.64,8,0.1330,7.9976,60
+77221,UP2204-9B5,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,White,Box,500,,,0.1330,3.9990,100
+77223,UP2206-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,White,Box,1000,,,0.1580,11.9964,39
+77222,UP2206-9B5,Plenum,CMP,NS,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,White,Box,500,,,0.1580,5.9980,60
+77819,UP2206-9S1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,White,Spool,1000,,,0.1580,11.9964,39
+77224,UP2208-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,8,22,(7/30),STR ,White,Box,1000,,,0.1730,15.9952,36
+77820,UP2208-9S1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,8,22,(7/30),STR ,White,Spool,1000,,,0.1730,15.9952,36
+77225,UP2210-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,10,22,(7/30),STR ,White,Box,1000,,,0.2010,19.9940,36
+77226,UP2212-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,12,22,(7/30),STR ,White,Box,1000,,,0.2060,23.9928,
+77821,UP2212-9S1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,12,22,(7/30),STR ,White,Spool,1000,,,0.2060,23.9928,
+77495,UP1802-4B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,Yellow,Box,1000,,,0.1480,10.3942,60
+77227,UP1802-9B5,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,White,Box,500,,,0.1480,5.1971,100
+77070,UP1802-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,White,Box,1000,18.08,8.2,0.1480,10.3942,60
+77627,UP1802-9S1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,White,Spool,1000,,,0.1480,10.3942,
+77628,UP1803-9S1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,3,18,(7/26),STR ,White,Spool,1000,,,,15.5913,
+77496,UP1804-4B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,Yellow,Box,1000,,,0.1720,20.7884,39
+77071,UP1804-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,White,Box,1000,33.07,15,0.1720,20.7884,39
+77229,UP1804-9B5,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,White,Box,500,,,0.1720,10.3942,60
+77228,UP1804-9S1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,White,Spool,1000,,,0.1720,20.7884,
+77072,UP1806-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,White,Box,1000,48.5,22,0.2140,31.1826,36
+77230,UP1806-9B5,Plenum,CMP,NS,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,White,Box,500,,,0.2140,15.5913,39
+77822,UP1806-9S1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,White,Spool,1000,,,0.2140,31.1826,36
+77073,UP1808-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,8,18,(7/26),STR ,White,Box,1000,,,0.2340,41.5768,36
+77823,UP1808-9S1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,8,18,(7/26),STR ,White,Spool,1000,,,0.2340,41.5768,36
+77502,UP1602-4B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,16,(19/29),STR ,Yellow,Box,1000,,,0.1740,16.5734,39
+77074,UP1602-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,16,(19/29),STR ,White,Box,1000,26.46,12,0.1740,16.5734,39
+77231,UP1602-9B5,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,16,(19/29),STR ,White,Box,500,,,0.1740,8.2870,60
+77824,UP1602-9S1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,16,(19/29),STR ,White,Spool,1000,,,0.1740,16.5734,39
+77075,UP1604-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,16,(19/29),STR ,White,Box,1000,,,0.2040,33.1468,
+77076,UP1402-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,14,(19/27),STR ,White,Box,1000,38.58,17.5,0.2090,23.8131,
+77232,UP1404-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,4,14,(19/27),STR ,White,Box,1000,,,0.2460,47.6262,
+77077,UP1202-9B1,Plenum,CMP,NS,Alarm/Control,Multi-Cond,2,12,(19/25),STR ,White,Box,1000,,,0.2650,38.8542,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,, ,
+77413,SP2204S-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,22,1 (0.643mm),SOL,White,Box,1000,,,0.1380,8.8424,54
+77481,SP2202-4B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,Yellow,Box,1000,,,0.1200,5.3245,60
+77078,SP2202-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,2,22,(7/30),STR ,White,Box,1000,13.23,6,0.1200,5.3245,60
+77482,SP2204-4B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,Yellow,Box,1000,,,0.1390,9.3233,54
+77079,SP2204-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,White,Box,1000,19.84,9,0.1390,9.3233,54
+77825,SP2204-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,22,(7/30),STR ,White,Spool,1000,,,0.1390,9.3233,54
+77483,SP2206-4B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,Yellow,Box,1000,,,0.1680,13.3221,39
+77080,SP2206-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,White,Box,1000,27.78,12.6,0.1680,13.3221,39
+77233,SP2206-9B5,Plenum,CMP,S ,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,White ,Box,500,,,0.1680,6.6611,60
+77612,SP2206-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,6,22,(7/30),STR ,White,Spool,1000,,,0.1680,13.3221,39
+77081,SP2208-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,8,22,(7/30),STR ,White,Box,1000,,,0.1740,17.3209,36
+77613,SP2208-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,8,22,(7/30),STR ,White,Spool,1000,,,0.1740,17.3209,36
+77234,SP2210-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,10,22,(7/30),STR ,White,Box,1000,,,0.2100,21.3197,36
+77082,SP2212-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,12,22,(7/30),STR ,White,Box,1000,,,0.2160,25.3185,
+77826,SP2002-8S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,2,20,(7/28),STR ,Gray,Spool,1000,,,,8.2242,
+77827,SP2002-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,2,20,(7/28),STR ,White,Spool,1000,,,,8.2242,
+77828,SP2006-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,6,20,(7/28),STR ,White,Spool,1000,,,,22.0212,
+77235,SP1802-9B5,Plenum,CMP,S ,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,White ,Box,500,,,0.1560,5.8600,60
+77083,SP1802-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,White,Box,1000,23.15,10.5,0.1560,11.7199,39
+77605,SP1802-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,White,Spool,1000,,,0.1560,11.7199,39
+77484,SP1804-4B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,Yellow,Box,1000,,,0.1800,22.1141,36
+77606,SP1804-8S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,Gray,Spool,1000,,,0.1800,22.1141,36
+77607,SP1804-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,White,Spool,1000,,,0.1800,22.1141,36
+77084,SP1804-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,White,Box,1000,36.38,16.5,0.1800,22.1141,36
+77514,SP1804-9B5,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,White,Box,500,,,0.1800,11.0571,36
+77236,SP1806-9B5,Plenum,CMP,S ,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,White ,Box,500,,,0.2180,16.2540,54
+77085,SP1806-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,White ,Box,1000,51.54,23.38,0.2180,32.5083,36
+77608,SP1806-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,White ,Spool,1000,,,0.2180,32.5083,36
+77237,SP1808-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,8,18,(7/26),STR ,White ,Spool,1000,,,0.2320,42.9025,
+77238,SP1810-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,10,18,(7/26),STR ,White ,Spool,1000,,,0.2700,53.2967,
+77239,SP1812-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,12,18,(7/26),STR ,White ,Spool,1000,,,0.2860,63.6909,
+77240,SP1602-9B1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,2,16,(19/29),STR ,White ,Box,1000,,,0.1800,17.8991,39
+77241,SP1604-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,16,(19/29),STR ,White ,Spool,1000,,,0.2020,34.4725,
+77086,SP1402-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,2,14,(19/27),STR ,White ,Spool,1000,,,0.2160,25.1388,
+77242,SP1404-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,4,14,(19/27),STR ,White ,Spool,1000,,,0.2500,48.9519,
+77243,SP1202-9S1,Plenum,CMP,S ,Alarm/Control,Multi-Cond,2,12,(19/25),STR ,White ,Spool,1000,,,0.2740,40.1799,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77609,SPP2202-9S1,Plenum,CMP,S,Access/Control,Multi-Pair,2,22,(7/30),STR,White ,Spool,1000,,,0.1950,10.3980,
+77087,SPEP2202-9B1,Plenum,CMP,S  Each PR.,Access/Control,Multi-Pair,2,22,(7/30),STR ,White ,Box,1000,,,0.1950,9.4033,
+77088,SPEP1802-9B1,Plenum,CMP,S  Each PR.,Access/Control,Multi-Pair,2,18,(7/26),STR ,White ,Box,1000,,,0.2500,22.3220,
+77831,SPEP1802-9S1,Plenum,CMP,S  Each PR.,Access/Control,Multi-Pair,2,18,(7/26),STR ,White ,Spool,1000,,,0.2500,22.3220,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77625,CSP16C96J-4S5,Plenum,CMP,NS & S,Access/Control,Multi-Pair,16,22 & 18,22awg (7/30) 18awg (7/26),STR,White,Spool,500,,,,24.3790,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77245,CSP16C98W-XS1,Plenum,CMP,NS & S,Access/Control,Multi-Pair,16,22 & 18,22awg (7/30) 18awg (7/26),STR ,Wrap,Spool,1000,,,,46.1069,
+77416,CSP16C98W-XS5,Plenum,CMP,NS & S,Access/Control,Multi-Pair,16,22 & 18,22awg (7/30) 18awg (7/26),STR ,Wrap,Spool,500,,,,23.0535,
+77414,CSP16C98J-4S5,Plenum,CMP,NS & S,Access/Control,Multi-Pair,16,22 & 18,22awg (7/30) 18awg (7/26),STR ,Yellow,Spool,500,,,,23.0535,
+77415,CSP16C98J-9S5,Plenum,CMP,NS & S,Access/Control,Multi-Pair,16,22 & 18,22awg (7/30) 18awg (7/26),STR ,White,Spool,500,,,,23.0535,
+,,,,,,,,,,,,,,,,,,
+77089,CSP16C99W-XS5,Plenum,CMP,S,Access/Control,Multi-Pair,16,22 & 18,22awg (7/30) 18awg (7/26),STR ,Wrap,Spool,500,,,,30.3100,
+77244,CSP16C99J-9S5,Plenum,CMP,S,Access/Control,Multi-Pair,16,22 & 18,22awg (7/30) 18awg (7/26),STR ,White ,Spool,500,,,,30.3100,
+,,,,,,,,,,,,,,,,,,
+77659,CSP4C93J-9S5,Plenum,CMP,NS,Access/Control,Multi-Pair,4,16 & 19,16/2 & 19/2,SOL,White,Spool,500,,,,,
+77660,CSP16C94J-4S5,Plenum,CMP,NS,Access/Control,Multi-Cond,16,16 & 18 & 22,18/6+18/4+16/2+22/4,STR,Yellow,Spool,500,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77090,CP162242-9B1,Plenum,CMP,NS,Video/Data Combo ,Multi-Pair,6,16 & 24,,STR & SOL,White ,Box,1000,,,,21.2476,
+, ,,,,,,,,,,,,,,,,,
+, ,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,, ,
+77267,UFP2204S-2B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,4,22,1 (0.643mm),SOL ,Red,Box,1000,,,0.1240,7.5990,60
+77439,UFP1802S-0B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Black,Box,1000,,,0.1360,9.8998,60
+77268,UFP1802S-2B5,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Red,Box,500,,,0.1360,4.9500,100
+77110,UFP1802S-2B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Red,Box,1000,16.31,7.4,0.1360,9.8998,60
+77394,UFP1802S-2S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Red,Spool,1000,,,0.1360,9.8998,45
+77440,UFP1802S-3B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Orange,Box,1000,,,0.1360,9.8998,60
+77441,UFP1802S-4B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Yellow,Box,1000,,,0.1360,9.8998,60
+77442,UFP1802S-5B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Green,Box,1000,,,0.1360,9.8998,60
+77443,UFP1802S-6B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Blue,Box,1000,,,0.1360,9.8998,60
+77444,UFP1802S-9B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,White,Box,1000,16.31,7.4,0.1360,9.8998,60
+77269,UFP1804S-2B5,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Red,Box,500,,,0.1580,9.8998,60
+77111,UFP1804S-2B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Red,Box,1000,29.76,13.5,0.1580,19.7996,39
+77395,UFP1804S-2S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Red,Spool,1000,,,0.1580,19.7996,45
+77445,UFP1804S-4B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Yellow,Box,1000,,,0.1580,19.7996,39
+77446,UFP1804S-9B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,White,Box,1000,,,0.1580,19.7996,39
+77112,UFP1806S-2B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,6,18,1 (1.024mm),SOL ,Red,Box,1000,,,0.1920,29.6994,
+77270,UFP1602S-2B5,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Red,Box,500,,,0.1560,7.7800,100
+77447,UFP1602S-0B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Black,Box,1000,,,0.1560,15.5591,54
+77113,UFP1602S-2B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Red,Box,1000,24.25,11,0.1560,15.5591,54
+77396,UFP1602S-2S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Red ,Spool,1000,,,0.1560,15.5591,
+77448,UFP1602S-3B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Orange,Box,1000,,,0.1560,15.5591,54
+77449,UFP1602S-4B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Yellow,Box,1000,,,0.1560,15.5591,54
+77450,UFP1602S-5B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Green,Box,1000,,,0.1560,15.5591,54
+77451,UFP1602S-6B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Blue,Box,1000,,,0.1560,15.5591,54
+77452,UFP1602S-7B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Purple,Box,1000,,,0.1560,15.5591,54
+77453,UFP1602S-9B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,White,Box,1000,24.25,11,0.1560,15.5591,54
+77271,UFP1604S-2S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,4,16,1 (1.290mm),SOL ,Red,Spool,1000,,,0.1820,31.1182,45
+77454,UFP1604S-9S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,4,16,1 (1.290mm),SOL ,White,Spool,1000,,,0.1820,31.1182,45
+77455,UFP1402S-0B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Black,Box,1000,,,0.1840,25.1892,36
+77272,UFP1402S-2B5,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Red,Box,500,,,0.1840,12.5950,60
+77114,UFP1402S-2B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Red,Box,1000,35.27,16,0.1840,25.1892,36
+77397,UFP1402S-2S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Red,Spool,1000,,,0.1840,25.1892,45
+77456,UFP1402S-3B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Orange,Box,1000,,,0.1840,25.1892,36
+77457,UFP1402S-4B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Yellow,Box,1000,,,0.1840,25.1892,36
+77497,UFP1402S-4S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Yellow,Spool,1000,,,0.1840,25.1892,45
+77458,UFP1402S-5B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Green,Box,1000,,,0.1840,25.1892,36
+77459,UFP1402S-6B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Blue,Box,1000,,,0.1840,25.1892,36
+77498,UFP1402S-6S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Blue,Spool,1000,,,0.1840,25.1892,45
+77460,UFP1402S-7B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Purple,Box,1000,,,0.1840,25.1892,36
+77461,UFP1402S-9B1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,White,Box,1000,35.27,16,0.1840,25.1892,36
+77273,UFP1404S-2S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,4,14,1 (1.630mm),SOL ,Red,Spool,1000,,,0.2160,50.3784,45
+77115,UFP1202S-2S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,12,1 (2.050mm),SOL ,Red,Spool,1000,,,0.2160,39.7926,45
+77462,UFP1202S-4S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,12,1 (2.050mm),SOL ,Yellow,Spool,1000,,,0.2160,39.7926,45
+77463,UFP1202S-9S1,Plenum,FPLP,NS,Fire Alarm,Multi-Cond,2,12,1 (2.050mm),SOL ,White,Spool,1000,,,0.2160,39.7926,45
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77464,SFP1802S-0B1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Black,Box,1000,,,0.1420,11.1432,
+77116,SFP1802S-2B1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Red,Box,1000,20.94,9.5,0.1420,11.1432,
+77274,SFP1802S-2B5,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Red,Box,500,,,0.1420,5.5720,
+77465,SFP1802S-3B1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Orange,Box,1000,,,0.1420,11.1432,
+77466,SFP1802S-4B1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Yellow,Box,1000,,,0.1420,11.1432,
+77467,SFP1802S-5B1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Green,Box,1000,,,0.1420,11.1432,
+77468,SFP1802S-6B1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Blue,Box,1000,,,0.1420,11.1432,
+77469,SFP1802S-7B1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,Purple,Box,1000,,,0.1420,11.1432,
+77470,SFP1802S-9B1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,18,1 (1.024mm),SOL ,White,Box,1000,20.94,9.5,0.1420,11.1432,
+77275,SFP1804S-2B5,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Red,Box,500,,,0.1700,10.5215,
+77117,SFP1804S-2B1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,4,18,1 (1.024mm),SOL ,Red,Box,1000,35.27,16,0.1700,21.0430,
+77118,SFP1602S-2B1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Red,Box,1000,28.66,13,0.1600,16.8025,
+77398,SFP1602S-2S1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,16,1 (1.290mm),SOL ,Red,Spool,1000,,,0.1600,16.8025,
+77276,SFP1604S-2S1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,4,16,1 (1.290mm),SOL ,Red,Spool,1000,,,0.1880,32.3616,
+77471,SFP1604S-9S1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,4,16,1 (1.290mm),SOL ,White,Spool,1000,,,0.1880,32.3616,
+77277,SFP1402S-2S1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Red,Spool,1000,,,0.1880,26.4326,
+77472,SFP1402S-4S1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,Yellow,Spool,1000,,,0.1880,26.4326,
+77473,SFP1402S-9S1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,14,1 (1.630mm),SOL ,White,Spool,1000,,,0.1880,26.4326,
+77278,SFP1404S-2S1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,4,14,1 (1.630mm),SOL ,Red,Spool,1000,,,0.2200,51.6218,
+77279,SFP1202S-2S1,Plenum,FPLP,S ,Fire Alarm,Multi-Cond,2,12,1 (2.050mm),SOL ,Red,Spool,1000,,,0.2200,41.0360,
+,,,,,,,,,,,,,,,,,,
+77811,UFP1802-0B1,PVC,CMP/FPLP,NS,Fire Alarm,Multi-Cond,2,18,(7/26),STR ,Black,Box,1000,,,,10.6060,60
+77695,UFP1602-0S1,PVC,CMP/FPLP,NS,Fire Alarm,Multi-Cond,2,16,(19/29),STR ,Black,Spool,1000,,,0.1600,16.4100,45
+77696,UFP1402-0S1,PVC,CMP/FPLP,NS,Fire Alarm,Multi-Cond,2,14,(19/27),STR ,Black,Spool,1000,,,,23.3180,
+77814,UFP1202-0S1,PVC,CMP/FPLP,NS,Fire Alarm,Multi-Cond,2,12,(19/25),STR ,Black,Spool,1000,,,0.2620,40.4750,
+,,,,,,,,,,,,,,,,,,
+77815,SFP1802-0B1,Plenum,CMP/FPLP,S ,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,Black,Box,1000,,,0.1560,11.7199,39
+77817,SFP1802-0S1,Plenum,CMP/FPLP,S ,Alarm/Control,Multi-Cond,2,18,(7/26),STR ,Black,Spool,1000,,,0.1560,11.7199,39
+77818,SFP1804-0S1,Plenum,CMP/FPLP,S ,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,Black,Spool,1000,,,0.1800,22.1141,36
+77820,SFP1804-0B1,Plenum,CMP/FPLP,S ,Alarm/Control,Multi-Cond,4,18,(7/26),STR ,Black,Box,1000,,,0.1800,22.1141,36
+77821,SFP1806-0S1,Plenum,CMP/FPLP,S ,Alarm/Control,Multi-Cond,6,18,(7/26),STR ,Black,Spool,1000,,,0.2180,32.5083,36
+77697,SFP1602-0B1,Plenum,CMP/FPLP,S ,Alarm/Control,Multi-Cond,2,16,(19/29),STR ,Black,Box,1000,,,0.1800,17.8991,39
+77823,SFP1604-0S1,Plenum,CMP/FPLP,S ,Alarm/Control,Multi-Cond,4,16,(19/29),STR ,Black,Spool,1000,,,0.2020,34.4725,
+77822,SFP1402-0S1,Plenum,CMP/FPLP,S ,Alarm/Control,Multi-Cond,2,14,(19/27),STR ,Black,Spool,1000,,,0.2160,25.1388,
+77833,SFP1404-0S1,Plenum,CMP/FPLP,S ,Alarm/Control,Multi-Cond,4,14,(19/27),STR ,Black,Spool,1000,,,0.2500,48.9519,
+77834,SFP1202-0S1,Plenum,CMP/FPLP,S ,Alarm/Control,Multi-Cond,2,12,(19/25),STR ,Black,Spool,1000,,,0.2740,40.1799,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77119,SRG6FA-0B5,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Black,Box,500,,,0.2750,0.0000,39
+77120,SRG6FA-0B1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Black,Box,1000,30.6,13.88,0.2750,0.0000,20
+77489,SRG6FA-0S1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Black,Spool,1000,,,0.2750,0.0000,45
+77121,SRG6FA-9B5,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,White,Box,500,,,0.2750,0.0000,39
+77122,SRG6FA-9B1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,White,Box,1000,30.6,13.88,0.2750,0.0000,20
+77490,SRG6FA-9S1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,White,Spool,1000,,,0.2750,0.0000,45
+77334,SRG6FABC-0B1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL BC,Black,Box,1000,30.86,14,0.2750,4.9200,20
+77333,SRG6FABC-9B1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL BC,White,Box,1000,30.86,14,0.2750,4.9200,39
+77683,SRG11FA-0S1,PVC,CMR,S ,CATV,Coax,1,14,1 (1.630mm),SOL CCS,Black,Spool,1000,,,0.3950,0.0000, 
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77712,DBSRG6FA-0S1,DIRECT BURIAL,NON-UL,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Black,SPOOL,1000,30.6,13.88,0.2750,0.0000,20
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TBA,SRG6FAM-0S1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Black,Spool,1000,,,0.2980,0.0000,20
+TBA,SRG6FABCM-0S1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL BC,Black,Spool,1000,,,0.2750,4.9200,20
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77830,SRG6FAT-0S1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Black,Spool,1000,,,0.2980,0.0000,20
+77831,SRG6FAT-9S1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,White,Spool,1000,,,0.2980,0.0000,20
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77123,SRG6FAQ-0B5,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Black,Box,500,16.31,7.4,0.2980,0.0000,39
+77124,SRG6FAQ-0B1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Black,Box,1000,33.07,15,0.2980,0.0000,20
+77127,SRG6FAQ-4B1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Yellow,Box,1000,,,0.2980,0.0000,20
+77799,SRG6FAQ-6B5,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Blue,Box,500,,,0.2980,0.0000,39
+77125,SRG6FAQ-9B5,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,White,Box,500,16.31,7.4,0.2980,0.0000,39
+77126,SRG6FAQ-9B1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,White,Box,1000,33.07,15,0.2980,0.0000,20
+77335,SRG6FAQBC-0B1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL BC,Black,Box,1000,34.17,15.5,0.2980,4.9200,20
+77336,SRG6FAQBC-9B1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL BC,White,Box,1000,34.17,15.5,0.2980,4.9200,20
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77370,SRG6FAQM-0S1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL CCS,Black,Spool,1000,,,0.2980,0.0000,20
+,SRG6FAQMBC-0B1,PVC,CMR,S ,CATV,Coax,1,18,1 (1.024mm),SOL BC,Black,Box,1000,,,0.2980,4.9200,20
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77342,SRG59BC-0B1,PVC,CMR,S-BC,CCTV,Coax,1,20,1 (0.813mm),SOL BC,Black,Box,1000,,,0.2420,13.5362,36
+77661,SRG6BC-0S1,PVC,CMR,S-BC,CCTV,Coax,1,18,1 (1.024mm),SOL BC,Black,Spool,1000,,,0.2420,26.1800,45
+77281,SRG59CCA-0B5,PVC,CMR,S-CCA,CCTV,Coax,1,20,1 (0.813mm),SOL BC,Black,Box,500,,,0.2420,1.6320,39
+77129,SRG59CCA-0B1,PVC,CMR,S-CCA,CCTV,Coax,1,20,1 (0.813mm),SOL BC,Black,Box,1000,26.12,11.85,0.2420,3.2630,36
+77280,SRG59CCA-9B5,PVC,CMR,S-CCA,CCTV,Coax,1,20,1 (0.813mm),SOL BC,White,Box,500,,,0.2420,1.6320,39
+77128,SRG59CCA-9B1,PVC,CMR,S-CCA,CCTV,Coax,1,20,1 (0.813mm),SOL BC,White,Box,1000,26.12,11.85,0.2420,3.2630,36
+77283,SRG6CCA-0B5,PVC,CMR,S-CCA,CCTV,Coax,1,18,1 (1.024mm),SOL BC,Black,Box,500,,,0.2750,2.5680,39
+77130,SRG6CCA-0B1,PVC,CMR,S-CCA,CCTV,Coax,1,18,1 (1.024mm),SOL BC,Black,Box,1000,,,0.2750,5.1367,20
+77284,SRG6CCA-9B1,PVC,CMR,S-CCA,CCTV,Coax,1,18,1 (1.024mm),SOL BC,White,Box,1000,,,0.2750,5.1367,20
+,,,,,,,,,,,,,,,,,,
+77282,SRGM59-0B1,PVC,CMR,S-CCA,CCTV,Coax,1,25,,SOL BC,Black,Box,1000,,,0.1450,8.3700,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77573,SRG5918022401-0S5,PVC,CMR,S-BC,CCTV,Coax,3,20 & 18 & 24,(7/26),SOL-BC STR-BC,Black,Spool,500,,,0.242 X 0.450,13.3100, 
+77574,SRG5918022402-0S5,PVC,CMR,S-BC,CCTV,Coax,3,20 & 18 & 24,(7/26),SOL-BC STR-BC,Black,Spool,500,,,0.242 X 0.450,14.5100,
+,,,,,,,,,,,,,,,,,,
+77337,SRG591802BC-0B1,PVC,CMR,S-BC,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,Black,Box,1000,,,0.242 X 0.445,24.1959,20
+77615,SRG591802BC-0S5,PVC,CMR,S-BC,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,Black,Spool,500,,,0.242 X 0.445,12.0980,20
+77289,SRG61802BC-0S1,PVC,CMR,S-BC,CCTV,Coax,3,18 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,Black,Spool,1000,,,0.200 X 0.383,25.0000,
+,,,,,,,,,,,,,,,,,,
+77399,SRG591802CCA-0B5,PVC,CMR,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,Black,Box,500,24.03,10.9,0.242 X 0.445,7.1100,39
+77133,SRG591802CCA-0B1,PVC,CMR,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,Black,Box,1000,44.09,20,0.242 X 0.445,14.2200,20
+77487,SRG591802CCA-0S5,PVC,CMR,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,Black,Spool,500,,,0.242 X 0.445,7.1100,45
+77400,SRG591802CCA-0S1,PVC,CMR,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,Black,Spool,1000,,,0.242 X 0.445,14.2200,27
+77131,SRG591802CCA-9B5,PVC,CMR,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Box,500,24.03,10.9,0.242 X 0.445,7.1100,39
+77132,SRG591802CCA-9B1,PVC,CMR,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Box,1000,44.09,20,0.242 X 0.445,14.2200,20
+77285,SRG591802CCA-9S5,PVC,CMR,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Spool,500,,,0.242 X 0.445,7.1100,45
+77401,SRG591802CCA-9S1,PVC,CMR,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Spool,1000,,,0.242 X 0.445,14.2200,27
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77286,SRG591802ACCA-0B5,PVC,CL2,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-CCA,Black,Box,500,20.61,9.35,,0.0000,39
+77165,SRG591802ACCA-0B1,PVC,CL2,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-CCA,Black,Box,1000,40.41,18.33,,0.0000,20
+77505,SRG591802ACCA-0S5,PVC,CL2,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-CCA,Black,Spool,500,,,,0.0000,45
+77506,SRG591802ACCA-0S1,PVC,CL2,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-CCA,Black,Spool,1000,,,,0.0000,27
+77287,SRG591802ACCA-9B5,PVC,CL2,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-CCA,White,Box,500,20.61,9.35,,0.0000,39
+77164,SRG591802ACCA-9B1,PVC,CL2,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-CCA,White,Box,1000,40.41,18.33,,0.0000,45
+77508,SRG591802ACCA-9S5,PVC,CL2,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-CCA,White,Spool,500,,,,0.0000,45
+77507,SRG591802ACCA-9S1,PVC,CL2,S-CCA,CCTV,Coax,3,20 & 18,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-CCA,White,Spool,1000,,,,0.0000,27
+,,,,,,,,, ,,,,,,,,,
+77291,SDBRG59CCA-0S1,Direct Burial,Non-UL,S-CCA,CCTV,Coax,3,20,(7/26),SOL-BC STR-BC,Black,Spool,1000,,,0.2450,3.2630,
+77290,SDBRG591802CCA-0S1,Direct Burial,Non-UL,S-CCA,CCTV,Coax,3,20,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,Black,Spool,1000,,,0.245 X 0.450,14.2200,
+,,,,,,,,,,,,,,,,,,
+77575,SDBRG5918022401-0S5,Direct Burial,Non-UL,S-CCA,CCTV,Coax,5,20,(7/26),SOL-BC STR-BC,Black,Spool,500,,,0.242 X 0.450,13.3100,
+77576,SDBRG5918022402-0S5,Direct Burial,Non-UL,S-CCA,CCTV,Coax,7,20,(7/26),SOL-BC STR-BC,Black,Spool,500,,,0.242 X 0.450,14.5100,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77402,SPRG6FA-9S1,Plenum,CMP,S ,CATV,Coax,1,18,1 (1.024mm),SOL-CCS,White,Spool,1000,,,0.2750,0.0000,
+77433,SPRG6FAQ-9S1,Plenum,CMP,S ,CATV,Coax,1,18,1 (1.024mm),SOL-CCS,White,Spool,1000,,,0.2980,0.0000,
+77434,SPRG6FAQ-0S1,Plenum,CMP,S ,CATV,Coax,1,18,1 (1.024mm),SOL-CCS,Black,Spool,1000,,,0.2980,0.0000,
+77405,SPRG11FAQ-9S1,Plenum,CMP,S ,CATV,Coax,1,18,1 (1.024mm),SOL-CCS,White,Spool,1000,,,,0.0000,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,1 (0.813mm),,,,,,,,,
+,,,,,,,,,1 (1.024mm),,,,,,,,,
+77292,SPRG59BC-9B1,Plenum,CMP,S-BC,CCTV,Coax,1,20,1 (0.813mm),SOL-BC,White,Box,1000,,,0.2010,13.5362,
+77614,SPRG59BC-9S1,Plenum,CMP,S-BC,CCTV,Coax,1,20,1 (0.813mm),SOL-BC,White,Spool,1000,,,0.2010,13.5362,
+77135,SPRG59CCA-9B5,Plenum,CMP,S-CCA,CCTV,Coax,1,20,1 (0.813mm),SOL-BC,White,Box,500,,,0.2010,2.5685,
+77134,SPRG59CCA-9B1,Plenum,CMP,S-CCA,CCTV,Coax,1,20,1 (0.813mm),SOL-BC,White,Box,1000,,,0.2010,5.1370,
+77406,SPRG59CCA-9S1,Plenum,CMP,S-CCA,CCTV,Coax,1,20,1 (0.813mm),SOL-BC,White,Box,1000,,,0.2010,5.1370,
+77136,SPRG6CCA-9B1,Plenum,CMP,S-CCA,CCTV,Coax,1,18,1 (1.024mm),SOL-BC,White,Box,1000,,,0.2320,15.5360,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77295,SPRG591802BC-9S1,Plenum,CMP,S-BC,CCTV,Coax,3,20,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Spool,1000,,,0.200 X 0.383,25.0000,
+77829,SPRG591802BC-9S5,Plenum,CMP,S-BC,CCTV,Coax,3,20,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Spool,500,,,0.200 X 0.383,12.5000,
+77138,SPRG591802CCA-9B5,Plenum,CMP,S-CCA,CCTV,Coax,3,20,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Box,500,,,0.200 X 0.383,7.1100,
+77293,SPRG591802CCA-9S5,Plenum,CMP,S-CCA,CCTV,Coax,3,20,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Spool,500,,,0.200 X 0.383,7.1100,
+77137,SPRG591802CCA-9B1,Plenum,CMP,S-CCA,CCTV,Coax,3,20,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Box,1000,,,0.200 X 0.383,14.2200,
+77293,SPRG591802CCA-9S5,Plenum,CMP,S-CCA,CCTV,Coax,3,20,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Spool,500,,,0.200 X 0.383,7.1100,
+77294,SPRG591802CCA-9S1,Plenum,CMP,S-CCA,CCTV,Coax,3,20,18awg(7X26) & 20awg 1 (0.813mm),SOL-BC STR-BC,White,Spool,1000,,,0.200 X 0.383,14.2200,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77626,U242C3-8B1,PVC,CMR,NS,Data/phone,Multi-Pair,2,24,1 (0.511mm),SOL ,Gray,Box,1000,,,,4.5200,
+77548,U243C3-8B1,PVC,CMR,NS,Data/phone,Multi-Pair,3,24,1 (0.511mm),SOL ,Gray,Box,1000,,, ,6.7800,
+77371,U2425C3-8XS10,PVC,CMR,NS,Data/phone,Multi-Pair,25,24,1 (0.511mm),SOL ,Gray,Spool,1000,,,,62.2600,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77139,U2445E-0B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Black,Box,1000,,,0.2000,8.8400,54
+77571,U2445E-0B15,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Black,Box,1500,,,0.2000,13.2600,
+77677,U2445E-0C01,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Black,Speed Bag,100,,,0.2000,0.8840,
+77678,U2445E-0C025,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Black,Speed Bag,250,,,0.2000,2.2100,
+77140,U2445E-2B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Red,Box,1000,,,0.2000,8.8400,54
+77141,U2445E-3B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Orange,Box,1000,,,0.2000,8.8400,54
+77142,U2445E-4B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Yellow,Box,1000,,,0.2000,8.8400,54
+77556,U2445E-4C5,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Yellow,Speed Bag,500,9.92,4.5,0.2000,4.4200,6
+77143,U2445E-5B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Green,Box,1000,,,0.2000,8.8400,54
+77557,U2445E-5C5,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Green,Speed Bag,500,,,0.2000,4.4200,6
+77144,U2445E-6B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Blue,Box,1000,20.24,9.18,0.2000,8.8400,54
+77552,U2445E-6B5,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Blue,Box,500,,,0.2000,4.4200,
+ 77535,U2445E-6C5,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Blue,Speed Bag,500,9.92,4.5,0.2000,4.4200,6
+77679,U2445E-6C01,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Blue,Speed Bag,100,,,0.2000,0.8840,
+77680,U2445E-6C025,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Blue,Speed Bag,250,,,0.2000,2.2100,
+77145,U2445E-7B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Purple,Box,1000,,,0.2000,8.8400,54
+77146,U2445E-8B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Gray,Box,1000,20.24,9.18,0.2000,8.8400,54
+77147,U2445E-9B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,White,Box,1000,20.24,9.18,0.2000,8.8400,54
+77681,U2445E-9C01,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,White,Speed Bag,100,,,0.2000,0.8840,
+77682,U2445E-9C025,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,White,Speed Bag,250,,,0.2000,2.2100,
+77536,U2445E-9C5,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,White,Speed Bag,500,9.92,4.5,0.2000,4.4200,6
+77509,U2445E-PB1,PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Pink,Box,1000,,,0.2000,8.8400,54
+,"Price of CAT 5e w/o Freight  FOB Qingdao, China",PVC,CMR,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Pink,Box,1000,,,0.2000,8.8400,54
+,,,,,,,,,,,,,,,,,,
+77550,S2445E-6B1,PVC,CMR,S,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Blue,Box,1000,,,0.2250,10.2610,
+,,,,,,,,,,,,,,,,,,
+77148,UDB2445E-0S1,Direct Burial,,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Black,Spool,1000,,,0.2200,9.8400,
+77572,UDB2445E-0S15,Direct Burial,,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Black,Spool,1500,,,0.2200,14.7600,
+77690,UDB234C6-0S1,Direct Burial,,NS,Data/phone,Multi-Pair,4,23,,SOL ,Black,Spool,1000,,,0.2600,12.8070,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77435,U234C6-0B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,Black,Box,1000,,,0.2400,12.8070,
+77438,U234C6-2B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,Red,Box,1000,,,0.2400,12.8070,
+77436,U234C6-3B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,Orange,Box,1000,,,0.2400,12.8070,
+77151,U234C6-4B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,Yellow,Box,1000,,,0.2400,12.8070,
+77152,U234C6-5B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,Green,Box,1000,,,0.2400,12.8070,
+77150,U234C6-6B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,Blue,Box,1000,,,0.2400,12.8070,
+77590,U234C6-6C5,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,Blue,Speed Bag,500,,,0.2400,6.4000,
+77580,U234C6-7B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,Purple,Box,1000,,,0.2400,12.8070,
+77437,U234C6-8B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,Gray,Box,1000,,,0.2400,12.8070,
+77149,U234C6-9B1,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,White,Box,1000,,,0.2400,12.8070,
+77591,U234C6-9C5,PVC,CMR,NS,Data/phone,Multi-Pair,4,23,,SOL ,White,Speed Bag,500,,,0.2400,6.4000,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77155,UP2445E-4B1,Plenum,CMP,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Yellow,Box,1000,,,0.2200,9.9409,
+77156,UP2445E-5B1,Plenum,CMP,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Green,Box,1000,,,0.2200,9.9409,
+77154,UP2445E-6B1,Plenum,CMP,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Blue,Box,1000,,,0.2200,9.9409,
+77153,UP2445E-9B1,Plenum,CMP,NS,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,White,Box,1000,,,0.2200,9.9409,
+,,,,,,,,,,,,,,,,,,
+77551,SP2445E-8S1,Plenum,CMP,S,Data/phone,Multi-Pair,4,24,1 (0.511mm),SOL ,Gray,Box,1000,,,0.2250, ,
+,,,,,,,,,,,,,,,,,,
+77584,UP234C6-4B1,Plenum,CMP,NS,Data/phone,Multi-Pair,4,23,,SOL ,Blue,Box,1000,,,0.2400,12.8068,
+77585,UP234C6-5B1,Plenum,CMP,NS,Data/phone,Multi-Pair,4,23,,SOL ,Blue,Box,1000,,,0.2400,12.8068,
+77158,UP234C6-6B1,Plenum,CMP,NS,Data/phone,Multi-Pair,4,23,,SOL ,Blue,Box,1000,,,0.2400,12.8068,
+77157,UP234C6-9B1,Plenum,CMP,NS,Data/phone,Multi-Pair,4,23,,SOL ,White,Box,1000,,,0.2400,12.8068,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77407,UTP2401-64S1,PVC,Non-UL,NS,Cross Connect,Multi-Pair,1,24,1 (0.511mm),SOL ,Blu & Yel,Spool,1000,,,,2.4600,
+77408,UTP2401-6996S1,PVC,Non-UL,NS,Cross Connect,Multi-Pair,1,24,1 (0.511mm),SOL ,Blu/Wht & Wht/Blu,Spool,1000,,,,2.4600,
+77409,UTP2401-2992S1,PVC,Non-UL,NS,Cross Connect,Multi-Pair,1,24,1 (0.511mm),SOL ,Red/Wht & Wht/Red,Spool,1000,,,,2.4600,
+ ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+77297,U2002S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,2,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.1180,3.1761,
+77298,U2003S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,3,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.1240,4.7642,
+77299,U2004S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,4,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.1350,6.3523,
+77300,U2005S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,5,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.1460,7.9403,
+77301,U2006S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,6,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.1600,9.5284,
+77302,U2007S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,7,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.1620,11.1050,
+77303,U2008S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,8,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.1740,12.7045,
+77304,U2009S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,9,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.1880,14.2950,
+77305,U2010S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,10,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.2040,15.8950,
+77306,U2012S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,12,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.2120,19.0750,
+77307,U2013S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,13,20,1 (0.813mm),SOL ,Brown,Box,500,,,0.2200,20.6750,
+77308,U1802S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,2,18,1 (1.024mm),SOL ,Brown,Box,500,,,0.1360,4.9749,
+77309,U1803S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,3,18,1 (1.024mm),SOL ,Brown,Box,500,,,0.1440,7.4623,
+77310,U1804S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,4,18,1 (1.024mm),SOL ,Brown,Box,500,,,0.1560,9.9498,
+77311,U1805S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,5,18,1 (1.024mm),SOL ,Brown,Box,500,,,0.1730,12.4372,
+77312,U1806S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,6,18,1 (1.024mm),SOL ,Brown,Box,500,,,0.1880,14.9247,
+77313,U1807S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,7,18,1 (1.024mm),SOL ,Brown,Box,500,,,0.1880,17.4121,
+77314,U1808S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,8,18,1 (1.024mm),SOL ,Brown,Box,500,,,0.2030,18.8995,
+77315,U1809S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,9,18,1 (1.024mm),SOL ,Brown,Box,500,,,0.2220,22.3870,
+77316,U1810S-1B5,PVC,CMR,NS,Thermostat,Multi-Cond,10,18,1 (1.024mm),SOL ,Brown,Box,500,,,0.2400,24.8744,
+77317,U1812S-1B025,PVC,CMR,NS,Thermostat,Multi-Cond,12,18,1 (1.024mm),SOL ,Brown,Spool,250,,,0.2500,29.8493,
+77318,U1813S-1B025,PVC,CMR,NS,Thermostat,Multi-Cond,13,18,1 (1.024mm),SOL ,Brown,Spool,250,,,0.2620,32.3375,
+,,,,,,,,,,,,,,,,,,
+77319,U1802SCCA-1C01,PVC,CMR,NS,Thermostat,Multi-Cond,2,18,1 (1.024mm),SOL-CCA,Brown,Coil,100,,,0.1560,0.0000,
+77320,U1805SCCA-1S025,PVC,CMR,NS,Thermostat,Multi-Cond,5,18,1 (1.024mm),SOL-CCA,Brown,Spool,250,,,0.1730,0.0000,
+77321,U1805SCCA-1S2500,PVC,CMR,NS,Thermostat,Multi-Cond,5,18,1 (1.024mm),SOL-CCA,Brown,Spool,2500,,,0.1730,0.0000,
+77322,U1808SCCA-1S025,PVC,CMR,NS,Thermostat,Multi-Cond,8,18,1 (1.024mm),SOL-CCA,Brown,Spool,250,,,0.2030,0.0000,
+77323,U1808SCCA-1S2500,PVC,CMR,NS,Thermostat,Multi-Cond,8,18,1 (1.024mm),SOL-CCA,Brown,Spool,2500,,,0.2030,0.0000,

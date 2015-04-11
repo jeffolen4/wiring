@@ -1,0 +1,67 @@
+
+<h2>Listing Products</h2>
+<form method="post" action="/products/search">
+<input type="text" id="search_terms" name="search_terms" size="35" value="<%= @search_terms %>"></input>
+<input type="submit" value="Search"></input>
+</form>
+<table class="table table-bordered table-hover">
+  <thead class="table-heading">
+    <tr>
+      <th>Product code</th>
+      <th>UPG<br>Description</th>
+      <th>Compound</th>
+      <th>Shielded?</th>
+      <th>Application</th>
+      <th>Pairs<br>count</th>
+      <th>AWG</th>
+      <th>Stranded?</th>
+      <th>Solid?</th>
+      <th>Length</th>
+      <th>Unit<br>weight<br>lbs</th>
+      <th>Unit<br>weight<br>kgs</th>
+      <th>Carton<br>qty</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @products.each do |product| %>
+      <tr class="product-row">
+        <td><%= product.product_code %>
+        <%= hidden_field( :product,  :id, :value => product.id) %></td>
+        <td><%= product.upg_description %></td>
+        <td><%= product.compound %></td>
+        <td><%= product.shielded ? "Yes" : "No" %></td>
+        <td><%= product.application %></td>
+        <td><%= product.pairs_count %></td>
+        <td><%= product.awg %></td>
+        <td><%= product.stranded ? "Yes" : "No" %></td>
+        <td><%= product.solid ? "Yes" : "No" %></td>
+        <td><%= product.length %></td>
+        <td><%= product.unit_weight_lbs %></td>
+        <td><%= product.unit_weight_kgs %></td>
+        <td><%= product.carton_quantity %></td>
+        <td>
+          <div class="btn-group btn-group-sm product-btn">
+            <%= link_to product_path(product), class: "btn btn-mini", type: "button" do %>
+            <span class="glyphicon glyphicon-eye-open" aria-hidden="true" aria-label="Left Align"></span>
+            <% end %>
+            <%= link_to edit_product_path(product), class: "btn btn-mini", type: "button" do %>
+            <span class="glyphicon glyphicon-pencil" aria-hidden="true" aria-label="Left Align"></span>
+            <% end %>
+            <%= link_to product_path(product), class: "btn btn-mini",
+            method: :delete, data: {confirm: "Delete product code: #{product.product_code}\nAre you sure?"}, type: "button" do %>
+            <span class="glyphicon glyphicon-remove-circle" aria-hidden="true" aria-label="Left Align"></span>
+            <% end %>
+          </div>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+<h3>Go to page: <%= paginate @products %></h3>
+<br>
+
+<%= link_to 'New Product', new_product_path, class: "btn btn-primary", type: "button" %>
+</div>
+</div>

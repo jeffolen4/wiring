@@ -1,0 +1,86 @@
+<p id="notice"><%= notice %></p>
+<h2>View Product</h2>
+<table class="table table-bordered">
+  <tbody class="show-row">
+  <tr>
+    <td class="element-right"><strong>Product code:</strong></td>
+    <td class="product_attr"><%= @product.product_code %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>UPG Description</strong></td>
+    <td class="product_attr"><%= @product.upg_description %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Compound:</strong></td>
+    <td class="product_attr"><%= @product.compound %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>NEC Article:</strong></td>
+    <td class="product_attr"><%= @product.nec_article %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Shielded:</strong></td>
+    <td class="product_attr"><%= @product.shielded %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Application:</strong></td>
+    <td class="product_attr"><%= @product.application %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Strand type:</strong></td>
+    <td class="product_attr"><%= @product.strand_type %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Pairs count:</strong></td>
+    <td class="product_attr"><%= @product.pairs_count %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>AWG:</strong></td>
+    <td class="product_attr"><%= @product.awg %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Stand count:</strong></td>
+    <td class="product_attr"><%= @product.stand_count %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Stranded:</strong></td>
+    <td class="product_attr"><%= @product.stranded ? "Yes" : "No" %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Solid:</strong></td>
+    <td class="product_attr"><%= @product.solid ? "Yes" : "No" %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Putup:</strong></td>
+    <td class="product_attr"><%= @product.putup %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Length:</strong></td>
+    <td class="product_attr"><%= @product.length %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Unit weight lbs:</strong></td>
+    <td class="product_attr"><%= @product.unit_weight_lbs %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Unit weight kgs:</strong></td>
+    <td class="product_attr"><%= @product.unit_weight_kgs %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Nom od:</strong></td>
+    <td class="product_attr"><%= @product.nom_od %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Unit copper weight:</strong></td>
+    <td class="product_attr"><%= @product.unit_copper_weight %></td>
+  </tr>
+  <tr>
+    <td class="element-right"><strong>Carton quantity:</strong></td>
+    <td class="product_attr"><%= @product.carton_quantity %></td>
+  </tr>
+</tbody>
+</table>
+<div class="actions btn btn-group">
+    <%= link_to "Edit", edit_product_path(@product), class: "btn btn-primary", type: "button" %>
+    <%= link_to "Back", products_path, class: "btn btn-primary", type: "button" %>
+</div>

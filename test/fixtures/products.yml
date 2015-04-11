@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product_code: 1
+  upg_description: MyString
+  compound: MyString
+  nec_article: MyString
+  shielded: false
+  application: MyString
+  strand_type: MyString
+  pairs_count: 1
+  awg: 1
+  stand_count: MyString
+  stranded: false
+  solid: false
+  putup: MyString
+  length: 1
+  unit_weight_lbs: 1
+  unit_weight_kgs: 1
+  nom_od: MyString
+  unit_copper_weight: 1.5
+  carton_quantity: 1
+
+two:
+  product_code: 1
+  upg_description: MyString
+  compound: MyString
+  nec_article: MyString
+  shielded: false
+  application: MyString
+  strand_type: MyString
+  pairs_count: 1
+  awg: 1
+  stand_count: MyString
+  stranded: false
+  solid: false
+  putup: MyString
+  length: 1
+  unit_weight_lbs: 1
+  unit_weight_kgs: 1
+  nom_od: MyString
+  unit_copper_weight: 1.5
+  carton_quantity: 1
