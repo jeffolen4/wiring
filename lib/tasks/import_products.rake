@@ -38,13 +38,14 @@ task :import_products => :environment do
         p.stranded = false
       end
 
-      p.putup = row[11]
-      p.length = row[12]
-      p.unit_weight_lbs = row[13]
-      p.unit_weight_kgs = row[14]
-      p.nom_od = row[15]
-      p.unit_copper_weight = row[16]
-      p.carton_quantity = row[17]
+      p.color = row[11]
+      p.putup = row[12]
+      p.length = row[13]
+      p.unit_weight_lbs = row[14]
+      p.unit_weight_kgs = row[15]
+      p.nom_od = row[16]
+      p.unit_copper_weight = row[17]
+      p.carton_quantity = row[18]
 
       p.save
 
