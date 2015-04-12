@@ -1,9 +1,8 @@
 
 <h2>Listing Products</h2>
-<form method="post" action="/products/search">
+<form id="index-form" method="get" action="<%= products_path() %>">
 <input type="text" id="search_terms" name="search_terms" size="35" value="<%= @search_terms %>"></input>
 <input type="submit" value="Search"></input>
-</form>
 <table class="table table-bordered table-hover">
   <thead class="table-heading">
     <tr>
@@ -21,6 +20,41 @@
       <th>Unit<br>weight<br>kgs</th>
       <th>Carton<br>qty</th>
       <th>Actions</th>
+    </tr>
+    <tr>
+      <td colspan=4></td>
+      <td>
+        <div class="dropdown">
+          <button class="btn btn-default dropdown-toggle" type="button" id="dropdownApps" data-toggle="dropdown" aria-expanded="true"><%= @selected_app == "" ? "All Applications" : @selected_app %>
+            <span class="caret"></span>
+          </button>
+          <ul id="dropdown-apps" class="dropdown-menu" role="menu" aria-labelledby="dropdownApps">
+            <li role="presentation"><a role="menuitem" tabindex="-1" value="">ALL</li>
+            <% @applications.each do |app| %>
+              <li role="presentation"><a role="menuitem" tabindex="-1" value="<%= app.application %>"><%= app.application %></li>
+            <% end %>
+          </ul>
+        </div>
+          <input type="hidden" name="product[selected_app]" value="<%= @selected_app %>"></input>
+          <input type="hidden" name="product[selected_awg]" value="<%= @selected_awg %>"></input>
+          <input type="hidden" name="product[page]" value="<%= @page %>"></input>
+      </form>
+      </td>
+      <td></td>
+      <td>
+        <div class="dropdown">
+          <button class="btn btn-default dropdown-toggle" type="button" id="dropdownGauge" data-toggle="dropdown" aria-expanded="true"><%= @selected_awg == "" ? "All Gauges" : @selected_awg %>
+            <span class="caret"></span>
+          </button>
+          <ul id="dropdown-awg" class="dropdown-menu" role="menu" aria-labelledby="dropdownGauge">
+            <li role="presentation"><a role="menuitem" tabindex="-1" value="">ALL</li>
+            <% @gauges.each do |gauge| %>
+              <li role="presentation"><a role="menuitem" tabindex="-1" value="<%= gauge.awg %>"><%= gauge.awg %></li>
+            <% end %>
+          </ul>
+        </div>
+      </td>
+      <td colspan=7></td>
     </tr>
   </thead>
 
