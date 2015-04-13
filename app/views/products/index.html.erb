@@ -16,8 +16,6 @@
       <th>Stranded?</th>
       <th>Solid?</th>
       <th>Length</th>
-      <th>Unit<br>weight<br>lbs</th>
-      <th>Unit<br>weight<br>kgs</th>
       <th>Carton<br>qty</th>
       <th>Actions</th>
     </tr>
@@ -54,7 +52,7 @@
           </ul>
         </div>
       </td>
-      <td colspan=7></td>
+      <td colspan=5></td>
     </tr>
   </thead>
 
@@ -72,8 +70,6 @@
         <td><%= product.stranded ? "Yes" : "No" %></td>
         <td><%= product.solid ? "Yes" : "No" %></td>
         <td><%= product.length %></td>
-        <td><%= product.unit_weight_lbs %></td>
-        <td><%= product.unit_weight_kgs %></td>
         <td><%= product.carton_quantity %></td>
         <td>
           <div class="btn-group btn-group-sm product-btn">
