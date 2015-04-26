@@ -2,6 +2,7 @@
 <h2>Listing Products</h2>
 <form id="index-form" method="get" action="<%= products_path() %>">
 <input type="text" id="search_terms" name="search_terms" size="35" value="<%= @search_terms %>"></input>
+<p>Current browser is a <span id="device-type"><%= @device %></span> device</p>
 <input type="submit" value="Search"></input>
 <table class="table table-bordered table-hover">
   <thead class="table-heading">

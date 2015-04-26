@@ -8,6 +8,8 @@ class ProductsController < ApplicationController
     # get the gauges to choose from
     @gauges = Product.gauges
 
+    @device = detect_browser()
+
     # get the applications to choose from
     @applications = Product.applications
 
